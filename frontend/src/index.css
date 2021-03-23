@@ -1,0 +1,11 @@
+/* #211853 */
+.header-container{
+  background-color: #211853;
+  height: 80px;
+  line-height: 80px;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+.header-container img{
+  width: 150px;
+}
